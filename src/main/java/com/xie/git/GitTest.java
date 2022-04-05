@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("third commit");
         System.out.println("push commit");
         System.out.println("pull commit");
+        System.out.println("没想到吧，我改代码了");
     }
 
 }
